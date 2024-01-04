@@ -13,7 +13,7 @@ To run this application, you need:
 ### Installation
 - Clone or download this repository to your local machine.
 
-``` git clone https://github.com/andree25/NetzwerkAlgorithmen.git ```
+``` git clone https://github.com/andree25/na_projects.git ```
 
 - Open the project in your Java IDE.
 
